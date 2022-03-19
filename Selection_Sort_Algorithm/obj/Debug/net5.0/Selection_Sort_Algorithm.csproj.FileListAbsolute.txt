@@ -1,0 +1,16 @@
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.exe
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.deps.json
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.runtimeconfig.json
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.runtimeconfig.dev.json
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.dll
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\ref\Selection_Sort_Algorithm.dll
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\bin\Debug\net5.0\Selection_Sort_Algorithm.pdb
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.csproj.AssemblyReference.cache
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.AssemblyInfoInputs.cache
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.AssemblyInfo.cs
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.dll
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\ref\Selection_Sort_Algorithm.dll
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.pdb
+C:\Users\topu_\source\repos\Selection_Sort_Algorithm\Selection_Sort_Algorithm\obj\Debug\net5.0\Selection_Sort_Algorithm.genruntimeconfig.cache
